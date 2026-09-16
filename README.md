@@ -26,8 +26,9 @@ flutter run
 ```
 
 `flutter pub get` telah diverifikasi berhasil pada lingkungan pengembangan (10 September
-2026). Saat `flutter run` diminta, pilih perangkat tujuan (Windows, Chrome, atau emulator)
-yang tersedia.
+2026). `flutter run` belum diverifikasi karena perangkat tujuan (Windows, Chrome, atau
+emulator) belum tersedia pada saat praktikum; langkah ini akan dicoba kembali setelah
+perangkat tersedia. Saat `flutter run` diminta, pilih perangkat tujuan yang tersedia.
 
 ## Pengembang
 Nama panggilan / akun GitHub: Pasek Ary (Destroy27)
